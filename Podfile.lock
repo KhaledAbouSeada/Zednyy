@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (5.0.5)
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - CryptoSwift (0.15.0)
+  - DOButton (1.2.0)
+  - HCSStarRatingView (1.5)
+  - IQKeyboardManagerSwift (6.5.5)
+  - lottie-ios (3.1.6)
+  - MBCheckboxButton (1.4)
+  - OTPTextField (1.1.2)
+  - PageMenu (2.0.0)
+  - PromisedFuture (1.0.1)
+  - PusherSwift (7.2.0):
+    - CryptoSwift (~> 0.9)
+    - ReachabilitySwift (= 4.3.0)
+    - Starscream (~> 3.0.5)
+  - PushNotifications (3.0.4)
+  - ReachabilitySwift (4.3.0)
+  - SkyFloatingLabelTextField (3.8.0)
+  - Starscream (3.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - Charts
+  - DOButton
+  - HCSStarRatingView
+  - IQKeyboardManagerSwift
+  - lottie-ios
+  - MBCheckboxButton
+  - OTPTextField
+  - PageMenu
+  - PromisedFuture
+  - PusherSwift
+  - PushNotifications
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - CryptoSwift
+    - DOButton
+    - HCSStarRatingView
+    - IQKeyboardManagerSwift
+    - lottie-ios
+    - MBCheckboxButton
+    - OTPTextField
+    - PageMenu
+    - PromisedFuture
+    - PusherSwift
+    - PushNotifications
+    - ReachabilitySwift
+    - SkyFloatingLabelTextField
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  CryptoSwift: 769f58a9e89f64e8796c2e59ce5f002dc81a2438
+  DOButton: efc441446dfd53fd5fc68ae4408d17d29c632607
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  lottie-ios: 85ce835dd8c53e02509f20729fc7d6a4e6645a0a
+  MBCheckboxButton: 6ad0b46b111c59ea9dec558e0df1973cee2eb3aa
+  OTPTextField: 40130474e5fc0ac07782fa0bed346c9e81854e1d
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  PromisedFuture: 3f863d17c047c3474c85045b254bb1c94743ed0f
+  PusherSwift: a5369a01e8a9106b4897e9186265af1426726062
+  PushNotifications: 6e3d148e5e129af9d4a9279b288c934f9a7f9066
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  SkyFloatingLabelTextField: 5a338412114808e961fe2d14ea2c5452c8b6e4aa
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+
+PODFILE CHECKSUM: 9fedf94ececa830db0c0732443e065529a311aa0
+
+COCOAPODS: 1.9.1
